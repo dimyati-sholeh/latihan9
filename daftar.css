@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Prompt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
+
+body {
+    background: rgb(37,188,255);
+    background: linear-gradient(0deg, rgba(37,188,255,1) 0%, rgba(0,126,250,1) 50%, rgba(14,39,255,1) 100%);
+}
+
+.container {
+    background-color: white;
+    width: 70%;
+    margin: auto;
+}
+
+table {
+    width: 90%;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    font-family: kanit;
+}
+
+.button {
+    margin-top: 5px;
+    font-family: poppins;
+}
+
+tr {
+    font-family: prompt;
+}

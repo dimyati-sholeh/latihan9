@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Prompt&display=swap');
+
+
+body {
+    background: rgb(166,222,255);
+    background: linear-gradient(90deg, rgba(166,222,255,1) 0%, rgba(151,179,242,1) 50%, rgba(166,222,255,1) 100%);
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.589);
+    width: 190px;
+    margin: auto;
+    margin-top: 70px;
+    padding: 10px;
+    border-radius: 1%;
+}
+
+.tambat {
+    text-align: center;
+    font-family: prompt;
+}
+
+ul li {
+    list-style: none;
+}
+
+li {
+    margin-right: 25px;
+}
+
+label {
+    line-height: 35px;
+    font-family: prompt;
+}
